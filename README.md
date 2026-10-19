@@ -1,9 +1,9 @@
-# 🚀 Calagopus Panel Auto-Installer | by Lumina Team
+# 🚀 Calagopus Panel Auto-Installer | by Lumix Team
 
 [![Ubuntu Support](https://img.shields.io/badge/Ubuntu-20.04%20%7C%2022.04%20%7C%2024.04-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Docker](https://img.shields.io/badge/Docker-All--in--One-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Lumix-Team/Cologopus-Auto-install/blob/main/LICENSE)
-[![Maintained by](https://img.shields.io/badge/Maintained%20by-Lumina%20Team-8A2BE2)](https://github.com/Lumix-Team/Cologopus-Auto-install)
+[![Maintained by](https://img.shields.io/badge/Maintained%20by-Lumix%20Team-8A2BE2)](https://github.com/Lumix-Team/Cologopus-Auto-install)
 
 🌐 **Languages / Языки:** [English](#-english) | [Русский](#-русский)
 
@@ -12,7 +12,7 @@
 ## 🇬🇧 English
 
 ### 📖 About the Script
-An automated, version-independent bash script by **Lumina Team** for deploying the latest version of **Calagopus Panel** (Heavy All-in-One stack with Extensions & Wings support) on Ubuntu servers.
+An automated, version-independent bash script by **Lumix Team** for deploying the latest version of **Calagopus Panel** (Heavy All-in-One stack with Extensions & Wings support) on Ubuntu servers.
 
 ### ✨ Key Features
 * **Always Up-to-Date:** Dynamically pulls the latest `main` branch configurations and container images without being locked to a specific release version.
@@ -50,14 +50,14 @@ cd /opt/calagopus-panel && docker compose pull && docker compose up -d
 Distributed under the **MIT License**. See the [`LICENSE`](https://github.com/Lumix-Team/Cologopus-Auto-install/blob/main/LICENSE) file for more information.
 
 ### 🤖 AI Disclosure
-> This script and documentation were developed and optimized by **Lumina Team** with the assistance of Artificial Intelligence (AI).
+> This script and documentation were developed and optimized by **Lumix Team** with the assistance of Artificial Intelligence (AI).
 
 ---
 
 ## 🇷🇺 Русский
 
 ### 📖 О скрипте
-Автоматический скрипт от **Lumina Team** для быстрой установки самой последней версии игровой панели управления **Calagopus Panel** (стек Heavy All-in-One с поддержкой расширений и демона Wings) со всеми зависимостями.
+Автоматический скрипт от **Lumix Team** для быстрой установки самой последней версии игровой панели управления **Calagopus Panel** (стек Heavy All-in-One с поддержкой расширений и демона Wings) со всеми зависимостями.
 
 ### ✨ Что делает скрипт
 * **Независимость от версии:** Всегда скачивает актуальные образы и конфигурации напрямую из официальной ветки `main` — скрипт не устареет при выходе обновлений панели.
@@ -95,4 +95,4 @@ cd /opt/calagopus-panel && docker compose pull && docker compose up -d
 Проект распространяется под лицензией **MIT License**. Подробности смотрите в файле [`LICENSE`](https://github.com/Lumix-Team/Cologopus-Auto-install/blob/main/LICENSE).
 
 ### 🤖 Примечание о разработке
-> Данный скрипт и документация разработаны командой **Lumina Team** с использованием технологий искусственного интеллекта (ИИ).
+> Данный скрипт и документация разработаны командой **Lumix Team** с использованием технологий искусственного интеллекта (ИИ).
